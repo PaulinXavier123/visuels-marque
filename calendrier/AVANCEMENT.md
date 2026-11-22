@@ -1,4 +1,4 @@
-# Avancement du calendrier (mis à jour le 21 novembre 2026, 9 h GMT)
+# Avancement du calendrier (mis à jour le 22 novembre 2026, 8 h GMT)
 
 Rythme voulu : 2 publications par jour et par réseau, à 8 h puis 14 h GMT, 7 jours sur 7 (J1 publié le 19/11 ; ensuite J2 à 8 h, J3 à 14 h, J4 à 8 h le lendemain, etc.).
 
@@ -7,10 +7,11 @@ Rythme voulu : 2 publications par jour et par réseau, à 8 h puis 14 h GMT, 7 j
 | J1 | Publié le 19/11 (LinkedIn publié deux fois : 10 h 13 et 21 h 55 ; Facebook et Instagram à 22 h 05) |
 | J2, J3 | Publiés le 20/11 à 8 h et 14 h (visuels version sobre) |
 | J4 | Publié le 21/11 à 8 h (visuels v2) |
-| J5 | Programmé le 21/11 à 14 h (visuels v2) |
+| J5 | Publié le 21/11 à 14 h (visuels v2) |
 | J6 | Programmé le 22/11 à 8 h (visuels v2) |
 | J7 | Programmé le 22/11 à 14 h |
-| J8, J9 | Visuels v2 prêts (j08v2, j09v2) ; J8 le 23/11 à 8 h, J9 le 23/11 à 14 h, à programmer dès qu'il y a de la place dans la file |
+| J8 | Programmé le 23/11 à 8 h |
+| J9 | Visuels v2 prêts (j09v2) ; à programmer le 23/11 à 14 h dès qu'il y a de la place dans la file |
 | J11 | Visuels v2 prêts (j11v2) ; le 24/11 à 8 h |
 | J10 | Black Friday : placé le 27/11 à 8 h (le texte dit « aujourd'hui »). Visuels v2 prêts dans j10v2 |
 | J12 à J30 | Textes dans posts.json ; visuels à produire avec outils/ (J12 Instagram est un Reel : le remplacer par un carrousel). Ordre des créneaux : J11 à J16, puis J10 (27/11 à 8 h), puis J17 à J30 |
