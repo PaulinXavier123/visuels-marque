@@ -179,3 +179,17 @@ def icon_list(eyebrow, title, rows, inverted=False, max_title=96):
         badge(d, 190, cy, 112, ic, p["soft_fill"] if soft else p["strong_fill"], p["soft_ic"] if soft else p["strong_ic"], 1.9, 0.5)
         d.text((276*S, (cy + 14)*S), fr(label), font=fl, fill=p["body"], anchor="ls")
     _footer(d, p["foot"]); return img.resize((W, H), Image.LANCZOS)
+
+def icon_list_compact(eyebrow, title, rows, inverted=False, max_title=92, pitch=122, diam=100):
+    img, d, p = _new(inverted); lines = title.split("\n"); size = _fit(lines, max_title)
+    title_h = 0.73*size + (len(lines)-1)*size*1.02
+    total = 19 + 56 + title_h + 80 + (len(rows)-1)*pitch + diam
+    top = 650 - total/2
+    tracked(d, 540, top + 19, fr(eyebrow), f_eye, p["eye"], EYE_TRACK)
+    base, _ = _title(d, lines, size, 900, top + 19 + 56, p["title"])
+    y = base + 80 + diam/2; fl = font(600, 38)
+    for i, (ic, label) in enumerate(rows):
+        cy = y + i*pitch; soft = (i % 2 == 0)
+        badge(d, 190, cy, diam, ic, p["soft_fill"] if soft else p["strong_fill"], p["soft_ic"] if soft else p["strong_ic"], 1.9, 0.5)
+        d.text((266*S, (cy + 13)*S), fr(label), font=fl, fill=p["body"], anchor="ls")
+    _footer(d, p["foot"]); return img.resize((W, H), Image.LANCZOS)
