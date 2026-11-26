@@ -1,4 +1,4 @@
-# Avancement du calendrier (mis à jour le 25 novembre 2026, 8 h 30 GMT)
+# Avancement du calendrier (mis à jour le 26 novembre 2026, 10 h 10 GMT)
 
 Rythme : 2 publications par jour et par réseau, à 8 h et 14 h GMT, 7 jours sur 7, sans décalage. Ordre des créneaux : J2 à J9, J11 à J16, J10 (Black Friday, le 27/11 à 8 h), puis J17 à J30.
 
@@ -9,11 +9,12 @@ Rythme : 2 publications par jour et par réseau, à 8 h et 14 h GMT, 7 jours sur
 | J11 | Publié le 24/11 à 8 h (texte Facebook adapté : « Question du jour ») |
 | J12 | Publié le 24/11 à 14 h (le Reel Instagram est remplacé par un carrousel de 5 slides) |
 | J13 | Publié le 25/11 à 8 h |
-| J14 | Programmé le 25/11 à 14 h |
-| J15 | Programmé le 26/11 à 8 h (LinkedIn en texte seul) |
+| J14 | Publié le 25/11 à 14 h |
+| J15 | Publié le 26/11 à 8 h (LinkedIn en texte seul) |
 | J16 | Programmé le 26/11 à 14 h |
 | J10 | Black Friday : le 27/11 à 8 h. Visuels v2 prêts dans j10v2 |
-| J17 à J30 | Textes dans posts.json ; visuels à produire avec outils/ (design.py : scene, icon_list, icon_list_compact, cover_icon ; render.py : typo, avant_apres). Éviter les glyphes ≠ → ✓ dans les visuels |
+| J17 | Programmé le 27/11 à 14 h |
+| J18 à J30 | Textes dans posts.json (J18 le 28/11 à 8 h, J19 le 28/11 à 14 h, etc.) ; visuels à produire avec outils/ (design.py : scene, icon_list, icon_list_compact, cover_icon ; render.py : typo, avant_apres). Éviter les glyphes ≠ → ✓ dans les visuels |
 
 ## Textes à adapter selon le jour réel de publication
 - J19 Facebook : « Une question dominicale » (à reformuler si le jour n'est pas un dimanche).
