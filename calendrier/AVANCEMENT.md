@@ -1,4 +1,4 @@
-# Avancement du calendrier (mis à jour le 27 novembre 2026, 1 h GMT)
+# Avancement du calendrier (mis à jour le 27 novembre 2026, 8 h 20 GMT)
 
 Rythme : 2 publications par jour et par réseau, à 8 h et 14 h GMT, 7 jours sur 7, sans décalage. Ordre des créneaux : J2 à J9, J11 à J16, J10 (Black Friday, le 27/11 à 8 h), puis J17 à J30.
 
@@ -15,7 +15,8 @@ Rythme : 2 publications par jour et par réseau, à 8 h et 14 h GMT, 7 jours sur
 | J10 | Black Friday : le 27/11 à 8 h. Visuels v2 prêts dans j10v2 |
 | J17 | Programmé le 27/11 à 14 h |
 | J18 | Programmé le 28/11 à 8 h |
-| J19 à J30 | Textes dans posts.json (J19 le 28/11 à 14 h, J20 le 29/11 à 8 h, etc.) ; visuels à produire avec outils/ (design.py : scene, icon_list, icon_list_compact, cover_icon ; render.py : typo, avant_apres). Éviter les glyphes ≠ → ✓ dans les visuels |
+| J19 | Programmé le 28/11 à 14 h (texte Facebook adapté : « Depuis une dizaine de jours… Une question pour faire le point ») |
+| J20 à J30 | Textes dans posts.json (J20 le 29/11 à 8 h, J21 le 29/11 à 14 h, etc.) ; visuels à produire avec outils/ (design.py : scene, icon_list, icon_list_compact, cover_icon ; render.py : typo, avant_apres). Éviter les glyphes ≠ → ✓ dans les visuels |
 
 ## Textes à adapter selon le jour réel de publication
 - J19 Facebook : « Une question dominicale » (à reformuler si le jour n'est pas un dimanche).
